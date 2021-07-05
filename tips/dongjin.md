@@ -1,1 +1,1 @@
-![KeboardShortcut](./VScodeKeyboardReferenceSheet.png)
+![KeboardShortcut](./img/VScodeKeyboardReferenceSheet.png)
